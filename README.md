@@ -1,2 +1,2 @@
-# comp141repo
-My first GitHub project for Comp 141
+# COMP141 Repo
+Comp 141
